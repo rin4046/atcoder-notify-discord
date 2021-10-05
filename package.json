@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "dayjs": "^1.10.4",
+    "discord.js": "^12.5.3",
+    "fetch": "^1.1.0",
+    "jsdom": "^16.5.3"
+  }
+}
